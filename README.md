@@ -17,7 +17,7 @@ Metamorphosis Agent is an AI-powered application that analyzes images of waste (
 
  Tech Stack
 
-# Frontend: Streamlit
+## Frontend: Streamlit
 
 Vision/Text AI: Google Gemini 2.0 Flash
 
