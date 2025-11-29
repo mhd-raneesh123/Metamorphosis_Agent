@@ -17,7 +17,7 @@ Metamorphosis Agent is an AI-powered application that analyzes images of waste (
 
  Tech Stack
 
-Frontend: Streamlit
+# Frontend: Streamlit
 
 Vision/Text AI: Google Gemini 2.0 Flash
 
@@ -27,13 +27,13 @@ Language: Python 3.10+
 
  Installation
 
-Clone the repository
+# Clone the repository
 
 git clone [https://github.com/mhd-raneesh123/Metamorphosis_Agent.git]
 cd Metamorphosis_Agent
 
 
-Install dependencies
+# Install dependencies
 
 pip install -r requirements.txt
 
